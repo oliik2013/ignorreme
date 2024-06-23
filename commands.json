@@ -14,6 +14,12 @@
     ],
     "call": "Your discord link. (fill in in commands.json)"
   },
+   {
+    "command_name": [
+      "cool",
+    ],
+    "call": "cool thing"
+  },
   {
     "command_name": [
       "secret"
